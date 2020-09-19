@@ -4,7 +4,7 @@ Créer par mala
 Configurer le TokyoTeam\INITIALIZATION\config.js
 
 Étape 2:
-Configurer la DB avec TokyoTeam\tokyoteams.sql
+Créez une db avec le nom que vous voulez, puis executez le code sql suivant dedans: TokyoTeam\tokyoteams.sql
 
 Étape 3:
 Lancer le bot
