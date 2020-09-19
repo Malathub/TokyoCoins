@@ -7,7 +7,10 @@ Configurer le TokyoTeam\INITIALIZATION\config.js
 Créez une db avec le nom que vous voulez, puis executez le code sql suivant dedans: TokyoTeam\tokyoteams.sql
 
 Étape 3:
-Lancer le bot
+Ouvrir le cmd, executer la commande "npm install"
+
+Étape 4:
+lancer index.js
 
 
 --------------------------------------------------------
