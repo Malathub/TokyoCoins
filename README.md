@@ -1,4 +1,3 @@
-Créer par Malakrovi#8543
 
 Étape 1:
 Configurer le TokyoTeam\INITIALIZATION\config.js
